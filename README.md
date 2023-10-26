@@ -1,6 +1,6 @@
 # Front-End Contact GraphQL
 
-Este é o projeto front-end desenvolvido com Next.js para interagir com a [API GraphQL de contatos](https://github.com/seu-usuario/seu-repo-api). Ele oferece uma interface de usuário para criar, buscar, atualizar e deletar contatos na API. O projeto é construído usando Next.js e fornece comandos simples para desenvolvimento e construção.
+Este é o projeto front-end desenvolvido com Next.js para interagir com a [API GraphQL de contatos](https://github.com/WesleyRafaelp/contacts-api-graphQL). Ele oferece uma interface de usuário para criar, buscar, atualizar e deletar contatos na API. O projeto é construído usando Next.js e fornece comandos simples para desenvolvimento e construção.
 
 ## Pré-requisitos
 
